@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EVENT HADDLER WITH PAYMENT APP</string>
+    <string name="name">Name</string>
+    <string name="payment">Payment</string>
+</resources>
